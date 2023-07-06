@@ -1,1 +1,2 @@
 # AirlineTicketReservationSystem
+The Airline Ticket Reservation System is a software application that facilitates the process of reserving and managing airline tickets. This system allows users to search for flights, view available seats, make reservations, and manage bookings. It is designed to streamline the ticket reservation process and provide a user-friendly interface for both customers and administrators.
